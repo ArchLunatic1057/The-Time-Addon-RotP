@@ -1,0 +1,14 @@
+{
+  "for_all_this_world": {
+    "sounds": ["rotp_tt:for_all_this_world"]
+  },
+  "the_world_time_stop": {
+    "sounds": ["rotp_tt:the_world_time_stop"]
+  },
+  "time_stop_spell": {
+    "sounds": ["rotp_tt:time_stop_spell"]
+  },
+  "black_hole_time_stop": {
+    "sounds": ["rotp_tt:black_hole_time_stop"]
+  }
+}

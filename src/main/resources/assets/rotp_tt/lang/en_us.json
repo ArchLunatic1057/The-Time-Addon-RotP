@@ -1,0 +1,24 @@
+{
+  "entity.rotp_tt.the_time": "The Time",
+  "stand.rotp_tt.the_time": "The Time",
+
+  "action.rotp_tt.the_world_time_stop": "\"Time, Stop!\" (%ss)",
+  "action.rotp_tt.the_world_ts_blink": "Quick move",
+  "action.rotp_tt.the_world_time_resume": "Resume time",
+
+  "action.rotp_tt.star_platinum_time_stop": "\"Star Platinum, The World!\" (%ss)",
+  "action.rotp_tt.star_platinum_ts_blink": "Quick move",
+  "action.rotp_tt.star_platinum_time_resume": "Resume time",
+
+  "action.rotp_tt.battle_trance": "Battle trance",
+  "action.rotp_tt.exit_from_battle_trance": "Exit from trance",
+
+  "action.rotp_tt.endermans_world": "Enderman's World",
+  "action.rotp_tt.return_from_endermans_world": "Return to real world",
+
+  "action.rotp_tt.time_stop_spell": "Time Stop spell",
+  "action.rotp_tt.end_of_time_stop_spell": "Dispel the spell",
+
+  "action.rotp_tt.black_hole_time_stop": "Create Black Hole",
+  "action.rotp_tt.return_gravity_to_normal": "Remove Black Hole"
+}
